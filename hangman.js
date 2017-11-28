@@ -11,13 +11,13 @@ console.log(favoriteThings.displayWord())
 
 // // Show word
 
-var ChooseLetter = new Letter(" ", " ", " ", " ", " "
-//Check if letter exitsin word)
-for (var i = i; 1<favoriteThings; 1++) {
-  if new Word [i] == letterGuessed) {
- is letterUnderScored. == true
-}
+// var ChooseLetter = new Letter(" ", " ", " ", " ", " ");
+// //Check if letter exists in word)
+// for (var i = i; 1<favoriteThings; i++) {
+//   if(new Word [i] == letterGuessed) {
+//  is letterUnderScored. == true
+// }
 
-console.log(ChooseLetter);
+// console.log(ChooseLetter);
 
-console.log(ChooseLetter.displayLetter())
+// console.log(ChooseLetter.displayLetter())
